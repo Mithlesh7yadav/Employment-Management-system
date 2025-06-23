@@ -1,4 +1,4 @@
-# Employment-Management-system (Week-1 Task) 
+# Employee-Management-system (Week-1 Task) 
 This is a console-based Employee Management System developed in Java, following Object-Oriented Programming (OOP) principles, integrating the Java 8 Stream API, and implementing custom exception handling.
 
 The application enables organizations to efficiently manage employees, managers, and projects in a structured and hierarchical format, through a simple menu-driven console interface.
